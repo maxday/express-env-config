@@ -1,0 +1,35 @@
+{
+  "name": "express-env-config",
+  "version": "1.0.0",
+  "description": "express.js middleware for handling different configurations in different environments",
+  "scripts": {
+    "test": "jest"
+  },
+  "main": "index.js",
+  "keywords": [
+    "conf",
+    "config",
+    "configuration",
+    "env",
+    "environment",
+    "middleware",
+    "express"
+  ],
+  "author": {
+    "name": "Maxime DAVID",
+    "email": "contact@maximedavid.fr",
+    "url": "https://github.com/maxday"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxday/express-env-config.git"
+  },
+  "bugs": {
+    "url": "http://github.com/maxday/express-env-config/issues",
+    "email": "contact@maximedavid.fr"
+  }
+}
